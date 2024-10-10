@@ -1,4 +1,3 @@
-import java.util.Map;
 public class RetornoAPI {
     private final double conversion_rate;
 
