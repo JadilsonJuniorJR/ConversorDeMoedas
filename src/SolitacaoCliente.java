@@ -10,7 +10,7 @@ import java.net.http.HttpResponse;
 
 public class SolitacaoCliente {
 
-    private static String ApiKey = "7f10ab90456abcc18d12fa20";
+    private static String ApiKey = "suaChaveDaAPI";
 
     public static void EnviaSolicitacao(String moeda1, String moeda2, double valor) {
         try {
